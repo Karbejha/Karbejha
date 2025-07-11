@@ -16,8 +16,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building a **full-stack booking system** using Angular & ASP.NET Core
-- 🧠 I’m learning advanced backend & deployment techniques (Docker, CI/CD)
 - 💬 Ask me about **Angular**, **ASP.NET Core**, **Django**, **Next.js**, and **TypeScript**
 - 👨‍💼 Open for freelance or full-time remote roles
 - ✍️ I enjoy contributing to open-source and mentoring juniors
@@ -50,8 +48,8 @@
 ### 🚀 Featured Projects
 - 🔗 [**Booking App (Angular)**](https://github.com/Karbejha/booking-app-angular)
 - 🔗 [**Portfolio (Next.js)**](https://github.com/Karbejha/portfolio)
-- 🔗 [**YouTube Downloader (Node.js + React)**](https://github.com/Karbejha/YTDownloader)
-- 🔗 [**Facebook Video Downloader (Python + Tkinter)**](https://github.com/Karbejha/FBDownloader)
+- 🔗 [**FlowHR**](https://github.com/Karbejha/FlowHR)
+- 🔗 [**SaaS Services**](https://github.com/Karbejha/SaaS-website)
 
 ---
 
