@@ -15,21 +15,52 @@
 
 ---
 
-### 👨‍💻 About Me
-- 💬 Ask me about **Angular**, **ASP.NET Core**, **Django**, **Next.js**, and **TypeScript**
-- 👨‍💼 Open for freelance or full-time remote roles
-- ✍️ I enjoy contributing to open-source and mentoring juniors
+## 👨‍💻 About Me
+
+I’m a **Full-Stack Web Application Developer** focused on designing and building scalable, production-ready systems using modern TypeScript and cloud-first architectures.
+
+- 🔭 Working primarily with **Next.js, Node.js, PostgreSQL, and TypeScript**
+- ⚙️ Building robust APIs, authentication systems, and scalable backend services
+- 🧠 Interested in system design, data modeling, and performance optimization
+- ☁️ Exploring cloud infrastructure, object storage, and deployment automation
+- 🤖 Experimenting with AI-powered workflows and automation tools
+- 🌍 Open to freelance, contract, or remote full-time roles
 
 ---
 
-### 🛠️ Languages and Tools
+## 🏗️ Engineering Focus
+
+- RESTful API architecture  
+- Authentication & authorization (JWT, role-based access)  
+- Large file uploads (parallel & resumable strategies)  
+- Relational database design & migrations  
+- Background processing & async workflows  
+- VPS deployment & Linux server management  
+- Performance tuning & production debugging  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,js,html,css,tailwind,react,nextjs,vue,python,django,flask,nodejs,express,java,mysql,mongodb,postgres,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,html,css,tailwind" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
+
+### Database & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,aws" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karbejha&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karbejha&theme=radical" height="170"/>
@@ -37,31 +68,47 @@
 
 ---
 
-### 🌐 Activity Graph
+## 🌐 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karbejha&theme=dracula" />
 </p>
 
+---
+
+## 🚀 Featured Work
+
+🔹 **Full-Stack SaaS Architectures**  
+Modular backend systems with scalable database design.
+
+🔹 **Resumable File Upload Systems**  
+Parallel chunk uploads with pause/resume & session persistence.
+
+🔹 **Production-Ready Portfolio (Next.js)**  
+Deployed with modern CI/CD and optimized build configuration.
+
+🔹 **AI & Automation Experiments**  
+Workflow-driven applications integrating modern AI tooling.
 
 ---
 
-### 🚀 Featured Projects
-- 🔗 [**Booking App (Angular)**](https://github.com/Karbejha/booking-app-angular)
-- 🔗 [**Portfolio (Next.js)**](https://github.com/Karbejha/portfolio)
-- 🔗 [**FlowHR**](https://github.com/Karbejha/FlowHR)
-- 🔗 [**SaaS Services**](https://github.com/Karbejha/SaaS-website)
+## 🧠 What I Value
+
+- Clean and maintainable architecture  
+- Strong typing & predictable systems  
+- Performance awareness  
+- Production-first mindset  
+- Continuous learning  
 
 ---
 
-### 💬 Dev Quote of the Day
+## 📬 Connect With Me
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 📬 Connect With Me
-<p align="center">
-  <a href="mailto:mohamad.karbejha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohamadkarbejha/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mohamad.karbejha@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamadkarbejha/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
 </p>
