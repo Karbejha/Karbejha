@@ -1,7 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Mohamad%20Karbejha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%206%2B%20Years&descAlignY=56&descAlign=50" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATION 1: Twinkling star header (changed from fadeIn)      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Mohamad%20Karbejha&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%206%2B%20Years&descAlignY=57&descAlign=50" width="100%"/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATION 2: Typing SVG cycling through roles/stack           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+production-grade+systems;Security+%26+Systems+Thinker;Open+to+Remote+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+production-grade+systems;Security+%26+Systems+Thinker;6%2B+Years+of+Full-Stack+Engineering;Open+to+Remote+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,19 +21,38 @@
   <img src="https://img.shields.io/badge/Available%20for%20hire-✔-brightgreen?style=flat" alt="Available" />
 </p>
 
----
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATION 3: Two-column About Me with animated coding GIF     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 Full-Stack Developer with **6+ years of experience** building scalable, production-ready web systems. I specialize in TypeScript-first architectures across the full stack — from database schema to deployed infrastructure.
 
 - 🔭 Core stack: **Next.js · Node.js/Express · PostgreSQL · TypeScript · Docker**
-- 🏗️ Focused on RESTful API design, auth systems, background processing, and performance tuning
-- 🔐 Interested in application security, penetration testing, and secure system design
-- ☁️ Experienced with VPS/Linux deployment, CI/CD pipelines, and AWS services
-- 🌍 Open to remote full-time, contract, or freelance opportunities
+- 🏗️ RESTful API design, auth systems, background processing, performance tuning
+- 🔐 Application security, penetration testing, secure system design
+- ☁️ VPS/Linux deployment, CI/CD pipelines, AWS services
+- 🌍 Open to remote full-time, contract, or freelance
 
----
+</td>
+<td valign="top" width="45%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding animation"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  Animated slice divider                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&height=3&section=header" width="100%"/>
 
 ## 🔨 Currently Building
 
@@ -36,7 +61,9 @@ Full-Stack Developer with **6+ years of experience** building scalable, producti
 >
 > `Next.js` `Express.js` `PostgreSQL` `Socket.IO` `TypeScript` `Docker`
 
----
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&height=3&section=header" width="100%"/>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -59,7 +86,7 @@ An HR management system with employee lifecycle management, leave tracking, and 
 
 `Next.js` `MongoDB` `JWT` `TypeScript`
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -78,7 +105,15 @@ An HR management system with employee lifecycle management, leave tracking, and 
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,linux,aws" />
 </p>
 
----
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karbejha&theme=radical&no-frame=true&margin-w=8&row=1&column=7" />
+</p>
+
+<br/>
 
 ## 📈 GitHub Stats
 
@@ -91,27 +126,41 @@ An HR management system with employee lifecycle management, leave tracking, and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karbejha&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
----
+<br/>
 
 ## 🌐 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karbejha&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karbejha&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATION 4: Contribution snake (light + dark mode aware)     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Karbejha/Karbejha/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Karbejha/Karbejha/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/Karbejha/Karbejha/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Karbejha/Karbejha/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Karbejha/Karbejha/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://github.com/Karbejha/Karbejha/blob/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATION 5: Rotating animated programming quote              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<br/>
 
 ## 🧠 Engineering Principles
 
@@ -121,7 +170,7 @@ An HR management system with employee lifecycle management, leave tracking, and 
 - **Clean architecture** — maintainable code over clever code
 - **Continuous learning** — always exploring what's next in the ecosystem
 
----
+<br/>
 
 ## 📬 Connect With Me
 
@@ -137,4 +186,10 @@ An HR management system with employee lifecycle management, leave tracking, and 
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATION 6: Shark-type animated footer (different from       -->
+<!--  waving header for visual variety)                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=130&section=footer&animation=twinkling" width="100%"/>
